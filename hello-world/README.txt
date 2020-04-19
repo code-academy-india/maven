@@ -2,7 +2,7 @@
 #	core java maven project for maven initial steps in build system
 #
 # Open windows Dos prompt and goto your source folder.
-# Assume you are in d:\maven
+# Assume you are in d:\maven\hello-world
 #
 # step1	- remove all previous built artifacts like classes, jars ... etc
 #	mvn clean
