@@ -24,3 +24,6 @@ session1
 
 session2
 	Maven Java Project
+
+session3
+	Maven Web Application
