@@ -21,3 +21,6 @@ Create new workspace in IDE. Switch to this new workspace.
 
 session1
 	Maven First Project
+
+session2
+	Maven Java Project
