@@ -27,3 +27,6 @@ session2
 
 session3
 	Maven Web Application
+
+session4
+	Multi Module Project
