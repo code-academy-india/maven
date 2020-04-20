@@ -30,3 +30,6 @@ session3
 
 session4
 	Multi Module Project
+
+session5
+	Generate Docsite for Source and Tests
