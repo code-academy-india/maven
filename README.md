@@ -23,13 +23,13 @@ session1
 	Maven First Project
 
 session2
-	Maven Java Project
+	Maven pom.xml Settings
 
 session3
-	Maven Web Application
+	Maven Dependency
 
 session4
 	Multi Module Project
 
 session5
-	Generate Docsite for Source and Tests
+	Docsite for Source and Tests
